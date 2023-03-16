@@ -11,8 +11,5 @@ public class Main {
 
         Room room1 = new Room();
 
-        rooms.add;
-
-        System.out.println("");
     }
 }
